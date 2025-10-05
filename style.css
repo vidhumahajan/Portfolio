@@ -255,7 +255,7 @@
 
         
         .form-container {
-            max-width: 42rem;
+            max-width: 44rem;
             margin: 0 auto;
             background-color: var(--card-bg);
             padding: 2rem;
@@ -279,7 +279,7 @@
         }
         .form-input, .form-textarea {
             width: 100%;
-            padding: 0.75rem 1rem;
+            padding: 0.75rem 0rem;
             background-color: #10161d; 
             border: 1px solid #374151; 
             border-radius: 0.5rem;
